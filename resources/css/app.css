@@ -1,0 +1,10 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+form {
+    background-color: cadetblue;
+}
+#payment_form {
+    height: 428px;
+    width: 700px;
+}
